@@ -1,4 +1,3 @@
-
 # Vacation Auto Responder
 
 ## Summary
