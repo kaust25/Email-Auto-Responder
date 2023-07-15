@@ -1,4 +1,4 @@
-```
+
 # Vacation Auto Responder
 
 ## Summary
@@ -11,9 +11,9 @@ The Vacation Auto Responder is a Python program that automatically replies to un
 
 ## How to Run the Program
 1. Install required libraries:
-   ```
+   
    pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client openai
-   ```
+   
 
 2. Create and obtain Google API credentials:
    - Go to the [Google API Console](https://console.developers.google.com/).
@@ -31,9 +31,9 @@ The Vacation Auto Responder is a Python program that automatically replies to un
    - Customize the `reply_body` variable with your vacation reply message.
 
 5. Run the program:
-   ```
+   
    python vacation_auto_responder.py
-   ```
+   
 
 ## Credits
 This project is developed by [Your Name]. It utilizes the Google API (Gmail API) for email operations and the OpenAI API for generating auto-reply messages.
@@ -45,6 +45,6 @@ This project is developed by [Your Name]. It utilizes the Google API (Gmail API)
 - The program alters labels to move the replied emails out of the inbox and adds a custom "Vacation Auto-reply" label.
 
 Feel free to contribute to the project or provide any feedback!
-```
+
 
 Please make sure to replace `[Your Name]` with your actual name or username in the "Credits" section.
