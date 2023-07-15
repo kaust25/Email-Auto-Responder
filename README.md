@@ -36,7 +36,7 @@ The Vacation Auto Responder is a Python program that automatically replies to un
    
 
 ## Credits
-This project is developed by [Your Name]. It utilizes the Google API (Gmail API) for email operations and the OpenAI API for generating auto-reply messages.
+This project is developed by Kausthub Balaji. It utilizes the Google API (Gmail API) for email operations and the OpenAI API for generating auto-reply messages.
 
 ## Notes
 - The program waits for a set amount of time before checking for new emails and then activates randomly between 45 to 120 seconds to scan the inbox.
@@ -45,6 +45,3 @@ This project is developed by [Your Name]. It utilizes the Google API (Gmail API)
 - The program alters labels to move the replied emails out of the inbox and adds a custom "Vacation Auto-reply" label.
 
 Feel free to contribute to the project or provide any feedback!
-
-
-Please make sure to replace `[Your Name]` with your actual name or username in the "Credits" section.
